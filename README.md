@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Gav2011/Lumen/main/Lumen.png" alt="Lumen Logo  (im still working on a logo lol)" width="160"/>
+<img src="https://cdn.modeminc.com/lumen/Lumen.png" alt="Lumen Logo  (im still working on a logo lol)" width="160"/>
 
 # Lumen
 
@@ -13,6 +13,10 @@
 </div>
 
 ---
+
+| Platform | Download |
+|-----------|------------|
+|  Windows | [ModemInstaller.exe](https://cdn.modeminc.com/ModemInstaller.exe) |
 
 ## Overview
 
