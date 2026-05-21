@@ -5,11 +5,6 @@
 
 ### The browser that belongs to you.
 
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)]()
-[![License](https://img.shields.io/badge/license-Open%20Source-success)]()
-[![Engine](https://img.shields.io/badge/engine-Chromium-blue)]()
-[![Privacy](https://img.shields.io/badge/privacy-first-purple)]()
-
 </div>
 
 ---
